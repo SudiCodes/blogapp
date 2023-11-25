@@ -1,2 +1,2 @@
 # blogapp
-Build round the concepts of blogging
+Build around the concepts of blogging
